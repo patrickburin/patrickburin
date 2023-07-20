@@ -1,18 +1,23 @@
-### Hi there 👋
+### Olá, eu sou o Patrick!
 
-<!--
-**patrickburin/patrickburin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Tenho 23 anos e moro em Araranguá - SC
+- Atualmente trabalho como desenvolvedor front-end;
+- Estou cursando ciências da computação
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Linguagens
+ <div style={display="inline_block"}>
+   <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
+   <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
+   <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+   <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg">
+   <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"> 
+  </div>
+<br/>
 
-![Snake animation](https://github.com/patrickburin/patrickburin/blob/output/github-contribution-grid-snake.svg)
+ ## Redes sociais
+<div style={display="inline_block">
+  <a href="https://www.linkedin.com/in/patrick-burin-rodriguez-398496206?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BIDL8KCwgTcuUaogq7jl9sw%3D%3D" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/patrickburinn" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto: patrickburin17@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
