@@ -2,7 +2,7 @@
 
 - Tenho 23 anos e moro em Araranguá - SC
 - Atualmente trabalho como desenvolvedor front-end;
-- Estou cursando ciências da computação
+- Cursando ciências da computação (6ª fase)
 
 
 ## Linguagens
