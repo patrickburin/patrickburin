@@ -1,6 +1,5 @@
 ### Olá, eu sou o Patrick!
 
-- Tenho 23 anos e moro em Araranguá - SC
 - Atualmente trabalho como desenvolvedor front-end;
 - Cursando ciências da computação (6ª fase)
 
