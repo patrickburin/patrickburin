@@ -1,8 +1,9 @@
 ### Olá, eu sou o Patrick!
 
-- Desenvolvedor na OAIS Cloud / Unesc Labs;
-- Cursando Ciências da Computação (7ª fase);
+- Desenvolvedor WEB no Instituo Mix
+- Cursando Ciências da Computação (9ª fase);
 - Site pessoal: <a target="_blank" href="https://patrick-burin.vercel.app/"> patrick-burin.vercel.app </a>
+- GitHub utilizado no trabalho atual: <a target="_blank" href="https://github.com/PatrickBurinR"> github.com/PatrickBurinR</a>
 
 
 ## Linguagens, bibliotecas e ferramentas
